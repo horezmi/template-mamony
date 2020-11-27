@@ -80,7 +80,7 @@ body {
     color: #4f4f4f;
 }
 
-.btn {
+.page__btn {
     background-color: #5528FF;
     border-radius: 10px;
     padding: 10px 25px;
@@ -189,7 +189,7 @@ body {
     background-color: #F7F7F7;
 }
 
-.box-footer {
+.footer__wrap {
     display: flex;
     justify-content: space-between;
     align-items: center;    
@@ -202,7 +202,7 @@ body {
     align-items: center;
 }
 
-.social-wrap {
+.social__wrap {
     display: flex;
     justify-content: space-between;
     align-items: center;
