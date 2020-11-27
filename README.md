@@ -1,2 +1,2 @@
 # template-mamony-00
-Template mamony (html, css) for Portfolio
+Template mamony (html, semantic tags, css, grid, flex) for Portfolio
